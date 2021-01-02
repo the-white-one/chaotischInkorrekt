@@ -5,7 +5,7 @@
 Aktuell sind 6 Karten geplant. In jeder Karte muss für jeden Ausgang ein Layer mit dem Namen "exit_<zielkarte>" angelegt werden. Die dazugehörige "ExitSceneUrl" ist der Dateiname inklusive Ziellayer (beginnend mit #). In der Zielkarte muss das passende Layer "start_<herkunftskarte>" erstellt werden.
 
 ### main
-* <extern>
+* &lt;extern&gt;
 * EG.json#start_main 
 * BaumhausUnten.json#start_main
   
