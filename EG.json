@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#eg"
+                 "value":"main.json#start_eg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"OG.json#eg"
+                 "value":"OG.json#start_eg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"KG.json#eg"
+                 "value":"KG.json#start_eg"
                 }],
          "type":"tilelayer",
          "visible":true,
