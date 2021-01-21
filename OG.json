@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"BaumhausUnten.json#start_og"
+                 "value":"BU.json#start_OG"
                 }],
          "type":"tilelayer",
          "visible":false,
