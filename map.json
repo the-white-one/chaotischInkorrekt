@@ -352,7 +352,7 @@
          "startx":16,
          "starty":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
          "x":0,
          "y":0
@@ -372,7 +372,7 @@
          "startx":0,
          "starty":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":0,
          "x":0,
          "y":0
@@ -428,7 +428,7 @@
          "startx":0,
          "starty":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":48,
          "x":0,
          "y":0
@@ -512,8 +512,19 @@
          "startx":0,
          "starty":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":16,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":7,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -549,17 +560,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":48,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":7,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":false,
          "x":0,
          "y":0
         }],
