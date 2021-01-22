@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"BO.json#start_BU"
+                 "value":"BU.json#start_map"
                 }],
          "type":"tilelayer",
          "visible":true,
