@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"EG.json#start_OG"
+                 "value":"EG.json#start_KG"
                 }],
          "type":"tilelayer",
          "visible":false,
