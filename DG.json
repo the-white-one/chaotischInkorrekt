@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/www.nasa.gov\/multimedia\/nasatv\/iss_ustream.html"
+                 "value":"http:\/\/telescope.livjm.ac.uk\/data\/archive\/webfiles\/QS\/Latest\/t_latest_hms.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -172,7 +172,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
