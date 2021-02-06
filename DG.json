@@ -251,7 +251,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/telescope.livjm.ac.uk\/data\/archive\/webfiles\/QS\/Latest\/t_latest_hms.jpg"
                 }],
