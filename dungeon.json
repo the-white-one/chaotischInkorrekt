@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/ChinaGadgets\/Gadget_4.html"
+                 "value":"https:\/\/raw.githubusercontent.com\/the-white-one\/chaotischInkorrekt\/Pascal4F\/ChinaGadgets\/Gadget_4.html"
                 }],
          "type":"tilelayer",
          "visible":true,
