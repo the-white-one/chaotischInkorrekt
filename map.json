@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_chaotischinkorrekt"
+                 "value":"https:\/\/world.di.c3voc.de\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaotischinkorrekt"
                 }],
          "type":"tilelayer",
          "visible":true,
