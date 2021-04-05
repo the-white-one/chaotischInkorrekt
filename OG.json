@@ -197,7 +197,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/excalidraw.com\/cinkorrekt-labor"
                 }],
@@ -233,7 +233,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/excalidraw.com\/cinkorrekt-zwift"
                 }],
