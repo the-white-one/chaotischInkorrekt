@@ -218,6 +218,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"amongus"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -236,6 +241,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"leitstelle"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +278,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
