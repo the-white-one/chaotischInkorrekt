@@ -687,10 +687,6 @@
                         {
                          "duration":150,
                          "tileid":7
-                        }, 
-                        {
-                         "duration":150,
-                         "tileid":9
                         }],
                  "id":1
                 }, 
@@ -735,10 +731,6 @@
                         {
                          "duration":150,
                          "tileid":17
-                        }, 
-                        {
-                         "duration":150,
-                         "tileid":19
                         }],
                  "id":11
                 }],
