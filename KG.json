@@ -162,7 +162,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=minkorrekt&parent=minkorrekt.de"
+                 "value":"https:\/\/player.twitch.tv\/?parent=pascal4f.github.io&video=1077503549"
                 }],
          "type":"tilelayer",
          "visible":true,
