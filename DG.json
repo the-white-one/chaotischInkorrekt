@@ -292,7 +292,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/pages\/Staircase.html"
+                 "value":"https:\/\/pascal4f.github.io\/ci\/HelperPages\/Staircase.html"
                 }],
          "type":"tilelayer",
          "visible":true,
