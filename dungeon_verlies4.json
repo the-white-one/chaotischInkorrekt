@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon_verlies4.json#start_verlies5"
+                 "value":"dungeon_verlies5.json#start_verlies4"
                 }],
          "type":"tilelayer",
          "visible":true,
