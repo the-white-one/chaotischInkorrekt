@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":40,
@@ -493,7 +492,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/telescope.livjm.ac.uk\/data\/archive\/webfiles\/QS\/Latest\/t_latest_hms.jpg"
+                 "value":"https:\/\/stellarium-web.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -508,7 +507,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -600,7 +599,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1558,6 +1557,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":55
 }
