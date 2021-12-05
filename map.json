@@ -171,7 +171,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"Gang_sendezentrum.json#start_gang_cinkorrekt"
                 }],
