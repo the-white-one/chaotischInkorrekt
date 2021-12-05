@@ -1,0 +1,1 @@
+WA.chat.sendChatMessage('Glück auf!');
