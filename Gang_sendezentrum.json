@@ -97,6 +97,12 @@
                  "y":128
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"cPativtoi5PYbn89HIvzAMMh7gTrR4kvYV1CgVCfbNkjqzMV5C"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
