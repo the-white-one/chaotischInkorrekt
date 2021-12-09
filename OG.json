@@ -413,7 +413,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1230,
