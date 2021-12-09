@@ -282,7 +282,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"doorOpened"
+                 "value":"tuer1"
                 }, 
                 {
                  "name":"zone",
@@ -384,7 +384,7 @@
                 {
                  "height":0,
                  "id":2,
-                 "name":"",
+                 "name":"tuer1",
                  "point":true,
                  "properties":[
                         {
