@@ -134,6 +134,12 @@
          "id":19,
          "name":"exit_station_seze",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"station_seze.json#start_gang"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":512,
@@ -193,7 +199,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
