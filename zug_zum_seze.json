@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"gang_zum_seze.json#start_gang_station"
+                 "value":"gang_zum_seze.json#start_zug_zum_seze"
                 }],
          "type":"tilelayer",
          "visible":true,
