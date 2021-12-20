@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"gang_zum_seze.json#start_station_minkorrek"
+                 "value":"gang_zum_seze.json#start_station_minkorrekt"
                 }],
          "type":"tilelayer",
          "visible":true,
