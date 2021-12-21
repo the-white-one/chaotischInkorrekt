@@ -277,7 +277,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":"3,14"
+                 "value":"8378"
                 }, 
                 {
                  "name":"doorVariable",
@@ -340,7 +340,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":56,
          "x":0,
          "y":0
@@ -400,7 +400,7 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
@@ -494,7 +494,7 @@
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
