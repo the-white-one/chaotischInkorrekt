@@ -282,7 +282,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"tuer1"
+                 "value":"tuerzwift"
                 }, 
                 {
                  "name":"zone",
@@ -389,7 +389,7 @@
                 {
                  "height":0,
                  "id":2,
-                 "name":"tuer1",
+                 "name":"tuerzwift",
                  "point":true,
                  "properties":[
                         {
