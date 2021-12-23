@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_WO"
+                 "value":"main.json#start_WO"
                 }],
          "type":"tilelayer",
          "visible":true,

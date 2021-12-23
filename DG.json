@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_hinten"
+                 "value":"main.json#start_hinten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_DG_wald"
+                 "value":"main.json#start_DG_wald"
                 }],
          "type":"tilelayer",
          "visible":true,

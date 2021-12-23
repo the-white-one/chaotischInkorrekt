@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_EG"
+                 "value":"main.json#start_EG"
                 }],
          "type":"tilelayer",
          "visible":false,

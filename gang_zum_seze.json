@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_gang"
+                 "value":"main.json#start_gang"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/simondueckert\/sendezentrum\/gh-pages\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/simondueckert\/sendezentrum\/gh-pages\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
