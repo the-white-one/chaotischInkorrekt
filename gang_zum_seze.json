@@ -198,32 +198,6 @@
          "id":20,
          "name":"door_open_zone_seze",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"autoClose",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"autoOpen",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"0111"
-                }, 
-                {
-                 "name":"doorVariable",
-                 "type":"string",
-                 "value":"doorOpened"
-                }, 
-                {
-                 "name":"zone",
-                 "type":"string",
-                 "value":"door_open_zone_seze"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":512,
@@ -347,6 +321,32 @@
                  "y":124
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"closeLayer",
+                 "type":"string",
+                 "value":"closed_door"
+                }, 
+                {
+                 "name":"default",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"door",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"openLayer",
+                 "type":"string",
+                 "value":"opened_door"
+                }, 
+                {
+                 "name":"persist",
+                 "type":"bool",
+                 "value":false
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -359,7 +359,7 @@
          "name":"closed_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
@@ -371,7 +371,7 @@
          "name":"opened_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
