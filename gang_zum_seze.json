@@ -337,7 +337,7 @@
                         {
                          "name":"persist",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -347,32 +347,6 @@
                  "y":124
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"closeLayer",
-                 "type":"string",
-                 "value":"closed_door"
-                }, 
-                {
-                 "name":"default",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"door",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"openLayer",
-                 "type":"string",
-                 "value":"opened_door"
-                }, 
-                {
-                 "name":"persist",
-                 "type":"bool",
-                 "value":false
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
