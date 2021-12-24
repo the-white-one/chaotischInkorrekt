@@ -310,17 +310,12 @@
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"3,14"
+                 "value":false
                 }, 
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"tuer1"
+                 "value":"tuerzwift"
                 }, 
                 {
                  "name":"zone",
