@@ -200,6 +200,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"station_mink"
@@ -302,7 +307,7 @@
          "name":"closed_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
@@ -314,7 +319,7 @@
          "name":"opened_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
@@ -398,6 +403,25 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":148,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":164,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
