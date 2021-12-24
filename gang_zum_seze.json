@@ -198,6 +198,32 @@
          "id":20,
          "name":"door_open_zone_seze",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"code",
+                 "type":"string",
+                 "value":"0111"
+                }, 
+                {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"station_seze"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_open_zone_seze"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":512,
