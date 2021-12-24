@@ -313,9 +313,14 @@
                  "value":true
                 }, 
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"3,14"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"tuerzwift"
+                 "value":"tuer1"
                 }, 
                 {
                  "name":"zone",
