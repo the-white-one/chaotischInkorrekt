@@ -200,6 +200,21 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"code",
+                 "type":"string",
+                 "value":"0111"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorOpened"
@@ -285,7 +300,7 @@
                         {
                          "name":"persist",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -319,7 +334,7 @@
          "name":"closed_door",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":512,
          "x":0,
          "y":0
