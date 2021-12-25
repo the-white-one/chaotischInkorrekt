@@ -393,8 +393,14 @@
  "nextlayerid":28,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA Chaotisch Inkorrekt!"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -405,6 +411,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -418,6 +430,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -441,6 +459,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
@@ -454,6 +478,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -467,6 +497,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":472,
          "tileheight":32,
@@ -480,6 +516,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY milkian deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -493,6 +535,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO CCC"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -506,6 +554,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"watertower-gr",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -519,6 +573,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"doors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -532,6 +592,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO CCC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -545,6 +611,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"telescope",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY Innersloth"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -558,6 +630,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY milkian deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -571,9 +649,25 @@
          "imagewidth":512,
          "margin":0,
          "name":"testing",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":159,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"TODO CCC"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -584,6 +678,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY Dust Collector  gdu.one"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -597,6 +697,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"r2r-divoc-functional",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO divoc"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -610,6 +716,12 @@
          "imagewidth":274,
          "margin":0,
          "name":"Wegweiser",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Chaotisch Inkorrekt!"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -623,6 +735,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"campfire",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
@@ -733,6 +851,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"minkorrekt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Chaotisch Inkorrekt!"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -746,6 +870,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"stra\u00dfe3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY PandaMaru  pandamaru.de"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -759,6 +889,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO CERT"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
