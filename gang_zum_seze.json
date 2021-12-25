@@ -217,7 +217,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"doorOpened"
+                 "value":"door_station_mink"
                 }, 
                 {
                  "name":"zone",
@@ -306,8 +306,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":15663,
-                 "y":138
+                 "x":15587.6666666667,
+                 "y":130
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -351,7 +351,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":26,
+ "nextlayerid":27,
  "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
