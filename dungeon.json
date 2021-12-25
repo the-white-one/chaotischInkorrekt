@@ -362,6 +362,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -385,6 +391,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -398,6 +410,12 @@
          "imagewidth":302,
          "margin":0,
          "name":"dungeon13",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -411,6 +429,12 @@
          "imagewidth":530,
          "margin":0,
          "name":"dungeon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":208,
          "tileheight":32,
@@ -424,6 +448,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"dungeon7",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -437,6 +467,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"ChinaGadgets",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Chaotisch Inkorrekt!"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -451,6 +487,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -464,6 +506,12 @@
          "imagewidth":334,
          "margin":0,
          "name":"Rabe",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -477,6 +525,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" CC-BY-SA cert.ccc.de"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -490,6 +544,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"minkorrekt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Chaotisch Inkorrekt!"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
