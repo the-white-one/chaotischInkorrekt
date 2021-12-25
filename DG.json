@@ -598,8 +598,14 @@
  "nextlayerid":39,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC0"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -610,6 +616,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY milkian deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1335,6 +1347,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadvntu.re"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1358,6 +1376,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1381,6 +1405,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
@@ -1394,6 +1424,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"telescope",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY Innersloth"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1407,6 +1443,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"testing",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1420,6 +1462,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1433,6 +1481,12 @@
          "imagewidth":260,
          "margin":0,
          "name":"cafeteria",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY Innersloth"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1446,6 +1500,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1459,6 +1519,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1472,6 +1538,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY Celianna pixanna.nl"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1485,6 +1557,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY painhurt deviantart.com\/painhurt"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1498,6 +1576,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture5",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCBY unbekannt"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1511,6 +1595,12 @@
          "imagewidth":174,
          "margin":0,
          "name":"bildschirme",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -1524,6 +1614,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1537,6 +1633,12 @@
          "imagewidth":90,
          "margin":0,
          "name":"kaminmitfeuer",
+         "properties":[
+                {
+                 "name":"tilesetCopyight",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1550,6 +1652,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"minkorrekt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
