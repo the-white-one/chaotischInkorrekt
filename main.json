@@ -274,6 +274,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter in Lagerfeuer"
                 }],
          "type":"tilelayer",
          "visible":true,
