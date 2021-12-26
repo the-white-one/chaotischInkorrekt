@@ -25,6 +25,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared-GlobalPhonebooth"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter global phone phun"
                 }],
          "type":"tilelayer",
          "visible":true,
