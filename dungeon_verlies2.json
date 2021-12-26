@@ -136,12 +136,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"CC-BY-SA Chaotisch Inkorrekt!"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,

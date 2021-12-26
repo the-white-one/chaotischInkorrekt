@@ -75,7 +75,7 @@
                  "value":"dungeon_verlies1.json#start_trapdoor"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -181,6 +181,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kleineBuehne"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter stage"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,6 +209,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Werkstatt"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,6 +237,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pascal4f.github.io\/ci\/HelperPages\/OptischInkorrekt-Non-Interactive.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,6 +260,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pascal4f.github.io\/ci\/HelperPages\/OptischInkorrekt-Interactive.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
