@@ -317,7 +317,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"dGgKAHNI81wdKXbFcphpDSvHgXs8B3urp4cVnESySdow100SCh"
+                         "value":"xq77HUfDgOyI79VB2ol3ZByIbRqTscx5Z2RVeyimM99Ge3dQgH"
                         }],
                  "rotation":0,
                  "type":"",
@@ -351,7 +351,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":96,
          "x":0,
          "y":0
