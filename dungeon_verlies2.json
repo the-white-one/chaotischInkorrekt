@@ -58,7 +58,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLop",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
