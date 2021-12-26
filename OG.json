@@ -551,6 +551,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1276,6 +1282,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1299,6 +1311,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":472,
          "tileheight":32,
@@ -1312,6 +1330,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1325,6 +1349,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1338,6 +1368,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1351,6 +1387,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"leipzig_messe",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1364,6 +1406,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1377,6 +1425,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"testing",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1390,6 +1444,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -1413,6 +1473,12 @@
          "imagewidth":212,
          "margin":0,
          "name":"fluchtrutsche",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":18,
          "tileheight":32,
@@ -1426,6 +1492,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"fluchtweg",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1439,6 +1511,12 @@
          "imagewidth":129,
          "margin":0,
          "name":"Tafel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -1452,6 +1530,12 @@
          "imagewidth":52,
          "margin":0,
          "name":"fahrrad",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1465,6 +1549,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"schrank",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -1478,6 +1568,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortilesetohnecollide",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1491,6 +1587,12 @@
          "imagewidth":151,
          "margin":0,
          "name":"saerge",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1504,6 +1606,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1517,6 +1625,12 @@
          "imagewidth":444,
          "margin":0,
          "name":"badezimmer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":208,
          "tileheight":32,
@@ -1530,6 +1644,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1553,6 +1673,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Door2_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -1594,6 +1720,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"minkorrekt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
