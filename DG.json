@@ -328,6 +328,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to look at the stars"
                 }],
          "type":"tilelayer",
          "visible":true,

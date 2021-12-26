@@ -144,6 +144,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter \"the laboratory\"!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,6 +167,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/excalidraw.com\/cinkorrekt-labor"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,6 +190,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"zwift"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter sports room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -195,12 +215,17 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"onaction",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/excalidraw.com\/cinkorrekt-zwift#room=2dffcf665962b3f19965,rhKWPIacJX972CgGaGYoUA"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":56,
          "x":0,
          "y":0
@@ -234,6 +259,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/supergeek.de\/de\/minkorrekt\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,6 +523,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"CC-BY-SA chaotisch inkorrekt!"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Das Obergeschoss der Minkorrekt Assembly"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/the-white-one\/chaotischInkorrekt\/blob\/rc3_2021\/OG.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Chaotisch inkorrektes Obergeschoss"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
