@@ -232,6 +232,12 @@
          "imagewidth":302,
          "margin":0,
          "name":"dungeon13",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -245,6 +251,12 @@
          "imagewidth":530,
          "margin":0,
          "name":"dungeon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":208,
          "tileheight":32,
@@ -258,6 +270,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"dungeon7",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -271,6 +289,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"ChinaGadgets",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
