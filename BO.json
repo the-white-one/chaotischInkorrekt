@@ -162,7 +162,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":""
+         "value":"https:\/\/github.com\/the-white-one\/chaotischInkorrekt\/blob\/rc3_2021\/BO.json"
         }, 
         {
          "name":"mapName",
@@ -190,16 +190,6 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCBY workadventu.re"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
