@@ -102,6 +102,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"WO1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -231,6 +236,27 @@
  "nextlayerid":21,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA Chaotisch Inkorrekt!"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Der 5 Sterne Sendeturm von Minkorrekt, Wohnbereich"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":""
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Wasserturm oben"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -243,6 +269,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -256,6 +288,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -279,6 +317,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY milkian deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -292,6 +336,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Mullana"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -305,6 +355,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY CCC"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -318,6 +374,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -331,6 +393,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo_base_3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY pipoya.itch.io"
+                }],
          "spacing":0,
          "tilecount":472,
          "tileheight":32,
@@ -344,6 +412,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY CCC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
