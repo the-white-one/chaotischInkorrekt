@@ -184,6 +184,27 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA Chaotisch Inkorrekt!"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Der Bahnhof vom Sendezentrum"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/the-white-one\/chaotischInkorrekt\/blob\/rc3_2021\/station_seze.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Sendezentrum Bahnhof"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -196,6 +217,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -219,6 +246,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY workadventu.re"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -232,6 +265,12 @@
          "imagewidth":1470,
          "margin":0,
          "name":"zug",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
@@ -245,6 +284,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY CCC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -258,6 +303,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA cert.ccc.de"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -271,6 +322,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"seze-banner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 sendezentrum"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -284,6 +341,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"schrank",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
@@ -297,6 +360,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"boepsel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -310,6 +379,12 @@
          "imagewidth":1470,
          "margin":0,
          "name":"Zug_rC3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
