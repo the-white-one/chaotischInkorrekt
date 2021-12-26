@@ -107,6 +107,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to plop into seat cushion"
                 }],
          "type":"tilelayer",
          "visible":true,
