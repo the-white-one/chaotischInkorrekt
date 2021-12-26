@@ -70,7 +70,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"KG.json#start_EG"
                 }],
@@ -126,7 +126,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/r2r-tp_sounds_bbc_bbc_windy-atmo_nhu0501916.mp3"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -339,12 +339,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -358,7 +352,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC0"
+         "value":"CC-0"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -1151,6 +1145,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY milkian deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
