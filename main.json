@@ -380,6 +380,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared-GlobalPhonebooth"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter global phone phun"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -442,6 +452,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"CC-BY-SA Chaotisch Inkorrekt!"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Das Gel\u00e4nde der Minkorrekt Assembly"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/the-white-one\/chaotischInkorrekt\/blob\/rc3_2021\/main.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Minkorrekt Assembly"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -697,21 +722,11 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC-BY CCC"
                 }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":159,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"TODO CCC"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
