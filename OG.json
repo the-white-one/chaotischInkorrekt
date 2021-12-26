@@ -172,6 +172,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open lab board"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,14 +220,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/excalidraw.com\/cinkorrekt-zwift#room=2dffcf665962b3f19965,rhKWPIacJX972CgGaGYoUA"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open board"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -264,6 +274,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open supergeek merch store"
                 }],
          "type":"tilelayer",
          "visible":true,
