@@ -322,6 +322,12 @@
                  "y":1929
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"tT9TThAzQe4m5w8OA0BcUDst2eTLmwHQjvqWMJbATs4iE3CfAa"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
