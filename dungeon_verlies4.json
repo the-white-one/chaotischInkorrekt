@@ -205,7 +205,7 @@
          "name":"floortileset",
          "properties":[
                 {
-                 "name":"tilesetCopyight",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC-BY workadventu.re"
                 }],
