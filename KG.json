@@ -1449,6 +1449,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY cert.ccc.de"
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
