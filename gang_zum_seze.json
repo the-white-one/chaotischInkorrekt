@@ -182,33 +182,27 @@
         }, 
         {
          "draworder":"topdown",
-         "id":12,
-         "name":"getBadge_Ticket",
+         "id":33,
+         "name":"getBadge",
          "objects":[
                 {
-                 "height":256,
-                 "id":2,
-                 "name":"",
+                 "height":257.333333333333,
+                 "id":15,
+                 "name":"Zugticket",
                  "properties":[
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"tT9TThAzQe4m5w8OA0BcUDst2eTLmwHQjvqWMJbATs4iE3CfAa"
+                         "value":"aCeSln9Whz0S03AHBkJ806JjF7O7PUcacZ4uiQ7Ke4aFD6pLsT"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":68,
-                 "x":8384,
+                 "width":64,
+                 "x":8608,
                  "y":128
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"aCeSln9Whz0S03AHBkJ806JjF7O7PUcacZ4uiQ7Ke4aFD6pLsT"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -373,8 +367,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":33,
- "nextobjectid":15,
+ "nextlayerid":34,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
