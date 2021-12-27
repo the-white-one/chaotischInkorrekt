@@ -20,6 +20,12 @@
          "id":32,
          "name":"exit_lobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/kunstinsel.json#start_chaotisch_inkorrekt"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":96,
