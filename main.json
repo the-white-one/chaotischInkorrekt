@@ -20,7 +20,7 @@
                  "value":true
                 }, 
                 {
-                 "name":"doorVariable ",
+                 "name":"doorVariable",
                  "type":"string",
                  "value":"manhole_door"
                 }, 
@@ -385,7 +385,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"s8L3OVHgaTh4vcth7N0na6d9EsqOlVf3ZD5F0zgHCGpZSsjy6Z "
+                         "value":"s8L3OVHgaTh4vcth7N0na6d9EsqOlVf3ZD5F0zgHCGpZSsjy6Z"
                         }],
                  "rotation":0,
                  "type":"",
