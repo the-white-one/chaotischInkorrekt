@@ -343,6 +343,23 @@
                  "width":99,
                  "x":21,
                  "y":1943
+                }, 
+                {
+                 "height":47.5441236831305,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"s8L3OVHgaTh4vcth7N0na6d9EsqOlVf3ZD5F0zgHCGpZSsjy6Z "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":44.4657271856618,
+                 "x":2554.72704884389,
+                 "y":1784.7858804214
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -462,7 +479,7 @@
          "y":0
         }],
  "nextlayerid":33,
- "nextobjectid":3,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
