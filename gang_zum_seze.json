@@ -193,7 +193,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"UGDIdCEMcczRpy2KV5oZvB8Y4LBGEDvsrAVUPcAT0lQDhizp07"
+                         "value":"88pmEpPwFz9F9PhFcPjxecJVQHnAteNhVqzm9F4KqA9uUPd8i7"
                         }],
                  "rotation":0,
                  "type":"",
@@ -224,11 +224,6 @@
                  "name":"autoOpen",
                  "type":"bool",
                  "value":false
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"1974"
                 }, 
                 {
                  "name":"doorVariable",
@@ -262,11 +257,6 @@
                  "name":"autoOpen",
                  "type":"bool",
                  "value":false
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"1974"
                 }, 
                 {
                  "name":"doorVariable",
