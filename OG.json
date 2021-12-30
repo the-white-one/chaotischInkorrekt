@@ -485,7 +485,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
@@ -510,7 +510,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"feuerloescher_on_zone"
+                 "value":"feuerloescher_off_zone"
                 }],
          "type":"tilelayer",
          "visible":true,
