@@ -464,9 +464,19 @@
                  "value":false
                 }, 
                 {
+                 "name":"closeTriggerMessage",
+                 "type":"string",
+                 "value":"It's probably safer when it's extinguished ..."
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"feuerloescher"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Let it BURN!"
                 }, 
                 {
                  "name":"zone",
