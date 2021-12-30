@@ -461,8 +461,8 @@
                 }, 
                 {
                  "name":"enterValue",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"true"
                 }, 
                 {
                  "name":"zone",
@@ -489,8 +489,8 @@
                 }, 
                 {
                  "name":"enterValue",
-                 "type":"bool",
-                 "value":false
+                 "type":"string",
+                 "value":"false"
                 }, 
                 {
                  "name":"triggerMessage",
