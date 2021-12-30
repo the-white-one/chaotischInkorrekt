@@ -455,19 +455,14 @@
          "opacity":0.2,
          "properties":[
                 {
-                 "name":"autoClose",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"autoOpen",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"doorVariable",
+                 "name":"bindVariable",
                  "type":"string",
                  "value":"feuerloescher"
+                }, 
+                {
+                 "name":"enterValue",
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
                  "name":"zone",
@@ -488,29 +483,19 @@
          "opacity":0.2,
          "properties":[
                 {
-                 "name":"autoClose",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"autoOpen",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"closeTriggerMessage",
-                 "type":"string",
-                 "value":"It's probably safer when it's extinguished ..."
-                }, 
-                {
-                 "name":"doorVariable",
+                 "name":"bindVariable",
                  "type":"string",
                  "value":"feuerloescher"
                 }, 
                 {
-                 "name":"openTriggerMessage",
+                 "name":"enterValue",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"triggerMessage",
                  "type":"string",
-                 "value":"Let it BURN!"
+                 "value":"It's probably safer when it's extinguished ..."
                 }, 
                 {
                  "name":"zone",
