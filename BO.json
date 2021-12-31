@@ -296,6 +296,46 @@
          "tilecount":32,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":741,
+         "image":"minkorrekt.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"minkorrekt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 Chaotisch Inkorrekt!"
+                }],
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":2
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":3
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":4
+                        }],
+                 "id":5
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
