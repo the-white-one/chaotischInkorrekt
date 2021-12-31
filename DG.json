@@ -288,7 +288,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"httos:\/\/https:\/\/www.unter1000.de\/"
+                 "value":"https:\/\/www.unter1000.de\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
