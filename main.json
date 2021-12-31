@@ -1261,6 +1261,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"Pixelart-DeLorean",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Pixelart DeLorean Miguel Sanchez (PixelArtM)"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
