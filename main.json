@@ -1256,17 +1256,11 @@
         {
          "columns":12,
          "firstgid":5805,
-         "image":"#Pixelart DeLorean.png",
+         "image":"Pixelart-DeLorean.png",
          "imageheight":300,
          "imagewidth":400,
          "margin":0,
-         "name":"#Pixelart DeLorean",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":" Miguel S\u00e1nchez (PixelArtM)\nhttps:\/\/dribbble.com\/shots\/1695064--Pixelart-DeLorean"
-                }],
+         "name":"Pixelart-DeLorean",
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
