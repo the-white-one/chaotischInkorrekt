@@ -39,7 +39,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1788.39957035446,
+                 "x":1791.16965345695,
                  "y":859.291084854995
                 }],
          "opacity":1,
@@ -580,6 +580,11 @@
          "name":"mapName",
          "type":"string",
          "value":"Chaotisch inkorrektes Dachgeschoss"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/static.rc3.world\/scripts\/default\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
