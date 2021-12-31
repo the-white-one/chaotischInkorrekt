@@ -28,7 +28,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":""
+                         "value":"1"
                         }, 
                         {
                          "name":"persist",
@@ -552,7 +552,7 @@
                  "value":"{{fire_layer_1_visible}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":65,
          "x":0,
          "y":0
