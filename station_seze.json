@@ -398,6 +398,12 @@
          "imagewidth":1470,
          "margin":0,
          "name":"Zug_Cyber",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0 "
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
