@@ -547,7 +547,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"visible",
+                 "name":"visible_TEMP",
                  "type":"string",
                  "value":"{{fire_layer_1_visible}}"
                 }],
