@@ -549,7 +549,7 @@
                 {
                  "name":"visible",
                  "type":"string",
-                 "value":""
+                 "value":"{{fire_layer_1_visible}}"
                 }],
          "type":"tilelayer",
          "visible":false,
