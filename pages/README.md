@@ -1,0 +1,1 @@
+All static pages go here

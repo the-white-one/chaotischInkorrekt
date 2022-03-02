@@ -1,0 +1,1 @@
+All map JSON files except the main file go here
