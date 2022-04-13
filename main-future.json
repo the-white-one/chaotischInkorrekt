@@ -1025,6 +1025,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"box",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO Chaotisch Inkorrekt!?"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1038,6 +1044,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"cracks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"TODO Chaotisch Inkorrekt!?"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -1051,6 +1063,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"Minkorrekt_2-0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Minkorrekt UG"
+                }],
          "spacing":0,
          "tilecount":21,
          "tileheight":32,
