@@ -113,7 +113,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/kunstinsel.json#start_chaotisch_inkorrekt"
+                 "value":"world:\/\/lobby#start_chaotisch-inkorrekt"
                 }],
          "type":"tilelayer",
          "visible":true,
