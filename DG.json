@@ -545,14 +545,8 @@
          "id":47,
          "name":"fire_layer_1",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"visible_TEMP",
-                 "type":"string",
-                 "value":"{{fire_layer_1_visible}}"
-                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":65,
          "x":0,
          "y":0
