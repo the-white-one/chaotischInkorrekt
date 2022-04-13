@@ -81,7 +81,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/sendezentrum\/main.json"
+                         "value":"main.json#start_gang"
                         }],
                  "type":"tilelayer",
                  "visible":true,
