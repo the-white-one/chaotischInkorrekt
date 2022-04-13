@@ -409,11 +409,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Minkorrekt Assembly"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"https:\/\/static.rc3.world\/scripts\/default\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
