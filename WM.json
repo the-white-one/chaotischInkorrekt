@@ -128,7 +128,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -140,7 +140,7 @@
          "name":"unterewendeltreppe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -152,7 +152,7 @@
          "name":"unteresgelaender",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
@@ -164,7 +164,7 @@
          "name":"wendeltreppe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":22,
          "x":0,
          "y":0
