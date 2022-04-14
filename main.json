@@ -113,7 +113,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby#start_chaotisch-inkorrekt"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/c0c0bird\/bridging-bubbles\/main\/main_open.json#start_chaotisch-inkorrekt"
                 }],
          "type":"tilelayer",
          "visible":true,
