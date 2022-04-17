@@ -398,7 +398,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Das Gel\u00e4nde der Minkorrekt Assembly"
+         "value":"Das Gel\u00e4nde der Minkorrekt Assembly im Jahre 2042"
         }, 
         {
          "name":"mapLink",
@@ -409,6 +409,11 @@
          "name":"mapName",
          "type":"string",
          "value":"Minkorrekt Assembly"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
