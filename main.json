@@ -619,7 +619,7 @@
          "name":"manhole_open",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":96,
          "x":0,
          "y":0
@@ -631,7 +631,7 @@
          "name":"manhole_closed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":96,
          "x":0,
          "y":0
@@ -666,7 +666,7 @@
          "name":"steamcracker",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":96,
          "x":0,
          "y":0
@@ -706,6 +706,11 @@
          "name":"mapName",
          "type":"string",
          "value":"Minkorrekt Assembly"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
