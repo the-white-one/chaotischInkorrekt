@@ -255,6 +255,8 @@
                  "height":68,
                  "id":40,
                  "name":"start_future",
+                 "offsetx":8.05202849179318,
+                 "offsety":0,
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
