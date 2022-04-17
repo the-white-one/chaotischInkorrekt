@@ -413,7 +413,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/cdn.jsdelivr.net\/gh\/the-white-one\/chaotischInkorrekt\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
