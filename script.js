@@ -17,12 +17,19 @@ WA.onInit().then(() => {
 
 
 
-/*
-let tomb1Popup, tomb2Popup, tomb3Popup, tomb4Popup;
 
-WA.room.onEnterZone('tomb1', () => {
-    tomb1Popup = WA.ui.openPopup("rect_tomb1", "R.I.P.\nEuropean Data Retention\n2006 - 2014(?)", []);
+let buehnenshow;
+
+WA.room.onEnterZone('buehnenshow', () => {
+//    tomb1Popup = WA.ui.openPopup("rect_tomb1", "R.I.P.\nEuropean Data Retention\n2006 - 2014(?)", []);
+        WA.chat.sendChatMessage('Glückauf!', 'Nicolas');
+        WA.chat.sendChatMessage('Hallo!', 'Reini');
+
 });
+
+
+
+/*
 WA.room.onEnterZone('tomb2', () => {
     tomb2Popup = WA.ui.openPopup("rect_tomb2", "PLOT SOLD\n\nEU-US Privacy Framework\n 2022(?) - ", []);
 });
