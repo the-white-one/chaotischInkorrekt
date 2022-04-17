@@ -425,7 +425,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/cdn.jsdelivr.net\/gh\/the-white-one\/chaotischInkorrekt\/script.js"
+         "value":"https:\/\/cdn.jsdelivr.net\/gh\/the-white-one\/chaotischInkorrekt@82f92cec6fc7a68ca1e9789a8b6d41e46a975d5c\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
