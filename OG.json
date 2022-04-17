@@ -862,6 +862,11 @@
          "name":"mapName",
          "type":"string",
          "value":"Chaotisch inkorrektes Obergeschoss"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
