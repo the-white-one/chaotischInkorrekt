@@ -81,7 +81,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"main.json#start_gang"
+                         "value":"https:\/\/play.wa.fyyd.de\/_\/global\/raw.githubusercontent.com\/simondueckert\/sendezentrum\/gh-pages\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -281,7 +281,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
@@ -293,7 +293,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":512,
          "x":0,
          "y":0
