@@ -9,7 +9,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":6,
          "x":0,
          "y":0
@@ -27,7 +27,7 @@
                  "value":"gang_zum_seze.json#start_portal_seze"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":6,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":6,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
                  "value":"gang_zum_seze.json#start_portal_minkorrekt"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":6,
          "x":0,
          "y":0
@@ -81,13 +81,13 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":6,
          "x":0,
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[52, 53, 52, 53, 52, 53, 62, 63, 62, 63, 62, 63, 52, 53, 52, 53, 52, 53],
          "height":3,
          "id":7,
          "name":"bottom",
