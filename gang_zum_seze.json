@@ -189,7 +189,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gang_zum_seze.json#start_portal_minkorrekt"
+                         "value":"vortex.json#start_portal_minkorrekt"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -225,7 +225,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gang_zum_seze.json#start_portal_seze"
+                         "value":"vortex.json#start_portal_seze"
                         }],
                  "type":"tilelayer",
                  "visible":true,
